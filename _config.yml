@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "dc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Data Carpentry: Computational biology using R, Git and Shell scripting"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: janani@msu.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: <jananiravi>/<20180613-swcarpentry-msu-janani>
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
